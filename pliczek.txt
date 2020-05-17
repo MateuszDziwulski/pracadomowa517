@@ -1,1 +1,2 @@
 pierwszy commit
+, teraz go modyfikuje
